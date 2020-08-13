@@ -4,6 +4,4 @@
 - Code implements (code)
 - Paper (Paper)
 
-###### PPT for courese, English notes, and Chinese notes are included.
-
 - Feel free to report any issues, and maybe I will do it tomorrow.
